@@ -4,14 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Challenge01_Console
+namespace Challenge02_Console
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("hi :)");
-            Console.ReadKey();
         }
     }
 }

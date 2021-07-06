@@ -1,0 +1,7 @@
+C:\Projects\GoldBadgeChallenges\Challenge01_Console\bin\Debug\Challenge01_Console.exe.config
+C:\Projects\GoldBadgeChallenges\Challenge01_Console\bin\Debug\Challenge01_Console.exe
+C:\Projects\GoldBadgeChallenges\Challenge01_Console\bin\Debug\Challenge01_Console.pdb
+C:\Projects\GoldBadgeChallenges\Challenge01_Console\obj\Debug\Challenge01_Console.csprojAssemblyReference.cache
+C:\Projects\GoldBadgeChallenges\Challenge01_Console\obj\Debug\Challenge01_Console.csproj.CoreCompileInputs.cache
+C:\Projects\GoldBadgeChallenges\Challenge01_Console\obj\Debug\Challenge01_Console.exe
+C:\Projects\GoldBadgeChallenges\Challenge01_Console\obj\Debug\Challenge01_Console.pdb
